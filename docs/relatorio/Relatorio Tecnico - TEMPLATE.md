@@ -113,7 +113,7 @@
 
  Primordialmente, o objetivo do projeto está diretamente relacionado com os usuários excessivos da bebida alcoólica, contudo, não se restringe nesse quesito. Como uma das características de nossa proposta é o conteudo informativo, não somente alcoólatras podem se beneficiar, também visa-se a potencial ajuda que poderá ser fornecida aos ex-alcoólatras e indivíduos que conhecem alguém na situação de abuso do entorpecente.
  
-  Dessa forma, de maneira resumida, diversos grupos relevantes podem se beneficiar com o trabalho em questao, mas em definitivo, os candidatos à influência são os alcoólatras.
+  Dessa forma, de maneira resumida, diversos grupos relevantes podem se beneficiar com o trabalho em questao, mas em definitivo, os candidatos à influência são os ex e atuais alcoólatras.
  
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -140,8 +140,7 @@
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+ A seguir, tem-se exemplos de personas que desejamos atingir com nosso produto:
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
 > mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
