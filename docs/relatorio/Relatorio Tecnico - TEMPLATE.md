@@ -167,7 +167,7 @@
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
 > **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/Proposta de valor saideira.png)
+> ![Exemplo da Proposta de Valor](images/Proposta_de_valor_saideira.png)
 
 
 ## Histórias de Usuários
