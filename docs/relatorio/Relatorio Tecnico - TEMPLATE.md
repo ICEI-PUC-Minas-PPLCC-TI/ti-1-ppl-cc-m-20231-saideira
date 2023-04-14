@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-> - Saideira 
+ - Saideira 
 
 `CURSO` 
 
-> - Ciência da computação
+ - Ciência da computação
 
 ## Participantes
 
@@ -52,11 +52,12 @@
 
 # Introdução
 
-## Problema
-
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-  O problema a ser abordado no projeto "Saideira" está relacionado à saúde e bem-estar, mais especificamente, com o vício em álcool, o alcoolismo. Tal problema representa uma dor de aproximadamente 3% da população brasileira 
+## Problema
+
+  O problema a ser abordado no projeto "Saideira" está relacionado à saúde e bem-estar, mais especificamente, com o vício em álcool, o alcoolismo. Tal problema representa uma dor de aproximadamente 3% da população brasileira, que obstrui as relações sociais, pessoais e a saude física e mental do indivíduo. 
+  Dessa forma, o plano do grupo consiste em sanar essas dores por meio de divulgação de informação, exibição de relatos pessoais, motivações externas, entre outras técnicas. Tudo através de um site, a ser mais detalhado posteriormente no relatório.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -77,6 +78,9 @@
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+
+  Como meta, o foco principal da aplicação é trazer auxílio e ajuda para aqueles que sofrem de alcoolismo. Contudo, em segundo plano, visualisa-se um site capaz de trazer informações e sanar dúvidas para quaisuqer indivíduos, sejam utilizadores frequentes da bebida ou não.
+  Mais especificamente, a ideia proposta é de fornecer informação acerca do vício em álcool através de links contendo notícias, matérias e sobretudo artigos científicos relacionados. Adicionalmente, para fornecer uma motivação externa para continuar afastado do vício, diversos conteúdos relacionados aos benefícios de estar sóbrios ficarão em display juntos a um contador da quantidade de dias desde o último relapso.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
