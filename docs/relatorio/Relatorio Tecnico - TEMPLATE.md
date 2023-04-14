@@ -9,11 +9,11 @@
 
 ## Participantes
 
-> Os membros do grupo são:
-> - Arthur Torres Lemos
-> - Larissa Mariella da Silva Souza
-> - Lucas Aquino Moura de Albuquerque
-> - Lucas Pereira Rangel de Carvalho
+ Os membros do grupo são:
+ - Arthur Torres Lemos
+ - Larissa Mariella da Silva Souza
+ - Lucas Aquino Moura de Albuquerque
+ - Lucas Pereira Rangel de Carvalho
 
 # Estrutura do Documento
 
