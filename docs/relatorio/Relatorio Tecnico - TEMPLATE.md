@@ -172,7 +172,9 @@
 > **Exemplo de Persona 2**
 > 
 > ![Exemplo de Persona](images/Persona2Saideira.png)
-> 
+>
+>
+>
 > **Exemplo de Proposta de Valor 2**
 > ![Exemplo da Proposta de Valor](images/Proposta_de_valor_2_saideira.png)
 
