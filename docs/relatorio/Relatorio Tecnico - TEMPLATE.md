@@ -56,6 +56,8 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+  O problema a ser abordado no projeto "Saideira" está relacionado à saúde e bem-estar, mais especificamente, com o vício em álcool, o alcoolismo. Tal problema representa uma dor de aproximadamente 3% da população brasileira 
+
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
 > Descreva também o contexto em que essa aplicação será usada, se
