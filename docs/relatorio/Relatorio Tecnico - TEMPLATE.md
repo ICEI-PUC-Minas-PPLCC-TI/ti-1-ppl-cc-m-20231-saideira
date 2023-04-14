@@ -132,7 +132,7 @@
  
 # Especificações do Projeto
 
- À fim de exemplificar e detalhar aprofundadamente o projeto, foram realizadas diversas pesquisas e entrevistas durante a preparação. Dessa forma, as informações aglomeradas foram utilizadas de maneira a eslarecer dúvidas e auxiliar na execuç
+ À fim de exemplificar e detalhar aprofundadamente o projeto, foram realizadas diversas pesquisas e entrevistas durante a preparação. Dessa forma, as informações aglomeradas foram utilizadas de maneira a eslarecer dúvidas e auxiliar na execução do planejamento.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
