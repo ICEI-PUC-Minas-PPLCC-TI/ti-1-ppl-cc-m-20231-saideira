@@ -162,12 +162,12 @@
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](images/PersonaSaideira.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
 > **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+> ![Exemplo da Proposta de Valor](Proposta de valor saideira.png)
 
 
 ## Histórias de Usuários
