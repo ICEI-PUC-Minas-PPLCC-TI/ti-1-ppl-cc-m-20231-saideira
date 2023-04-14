@@ -176,6 +176,7 @@
 >
 >
 > **Exemplo de Proposta de Valor 2**
+> 
 > ![Exemplo da Proposta de Valor](images/Proposta_de_valor_2_saideira.png)
 
 
