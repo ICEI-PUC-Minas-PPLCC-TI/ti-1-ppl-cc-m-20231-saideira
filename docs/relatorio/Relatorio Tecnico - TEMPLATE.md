@@ -52,7 +52,9 @@
 
 # Introdução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ O alcoolismo é um problema de saúde pública que afeta milhões de pessoas em todo o mundo, incluindo o Brasil. De acordo com dados do Ministério da Saúde, o consumo de álcool está associado a diversas doenças, como cirrose hepática, câncer e transtornos mentais, além de ser um fator de risco para acidentes de trânsito e violência. 
+
+ Diante desse cenário preocupante, é fundamental que sejam desenvolvidos projetos que abordem o problema do alcoolismo de forma abrangente e eficaz, promovendo o tratamento e a conscientização sobre os danos causados pelo uso excessivo de álcool. Neste contexto, o projeto "Saideira" tem como foco desenvolver ações voltadas para a prevenção do consumo de álcool e principalmente para o apoio às pessoas que sofrem ou já sofreram com a dependência química, contribuindo para a melhoria da qualidade de vida geral de tais indivíduos.
 
 ## Problema
 
@@ -109,8 +111,10 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+ Primordialmente, o objetivo do projeto está diretamente relacionado com os usuários excessivos da bebida alcoólica, contudo, não se restringe nesse quesito. Como uma das características de nossa proposta é o conteudo informativo, não somente alcoólatras podem se beneficiar, também visa-se a potencial ajuda que poderá ser fornecida aos ex-alcoólatras e indivíduos que conhecem alguém na situação de abuso do entorpecente.
+ 
+  Dessa forma, de maneira resumida, diversos grupos relevantes podem se beneficiar com o trabalho em questao, mas em definitivo, os candidatos à influência são os alcoólatras.
+ 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
 > clientes ou quais serão os papéis dos usuários na aplicação. A ideia
@@ -128,7 +132,7 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ À fim de exemplificar e detalhar aprofundadamente o projeto, foram realizadas diversas pesquisas e entrevistas durante a preparação. Dessa forma, as informações aglomeradas foram utilizadas de maneira a eslarecer dúvidas e auxiliar na execuç
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
