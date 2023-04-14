@@ -123,13 +123,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto:
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| O site deve apresentar na página principal notícias, artigos e matérias dinâmicas sobre alcoolismo obtidas por meio de canais de notícias da Internet (API) | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
