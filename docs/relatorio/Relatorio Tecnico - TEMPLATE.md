@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-> - Saideira 
+- Saideira 
 
 `CURSO` 
 
-> - Ciência da computação
+- Ciência da computação
 
 ## Participantes
 
