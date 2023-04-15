@@ -253,6 +253,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 |Editor de código | VisualStudio Code | https://code.visualstudio.com/ | 
+|Editor de wireframes | Canva | https://www.canva.com/design/DAFgLocvCjQ/mFPC021h0gsWPLVWjpMeSg/edit?utm_content=DAFgLocvCjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
