@@ -247,7 +247,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 **Tela Contador**
  >
- A tela do contador 
+ A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
 >
 > ![Exemplo de Wireframe](images/5.png)
 >
