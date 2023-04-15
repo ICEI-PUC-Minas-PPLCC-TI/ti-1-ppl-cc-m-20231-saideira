@@ -193,10 +193,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
- À fim de exemplificar as telas do sistema proposto do trabalho, observa-se a base seguida para todas as outras telas:
+ À fim de exemplificar as telas do sistema proposto do trabalho, observa-se a base seguida para todas as outras telas. Nela, existem dois espaços principais: Cabeçalho e conteúdo. O último é dividido em três espaços.
+ -Cabeçalho:
+  Local onde será gerenciado o processo de contas, assim como outras funções e o logo do site.
+ -Conteúdo:
+  Local onde serão apresentadas as notícias, artigos e matérias disponibilizadas.
 >
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> **Wireframe Base**
+>
+> ![Exemplo de Wireframe](images/wireframe_padrao.png)
+>
+> **Tela inicial - Home Page**
 
+>
 
 # Metodologia
 
