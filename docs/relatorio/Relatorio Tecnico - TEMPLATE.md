@@ -130,37 +130,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O site deve apresentar na página principal notícias, artigos e matérias dinâmicas sobre alcoolismo obtidas por meio de canais de notícias da Internet (API) | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| O site deve apresentar, para cada artigo, notícia ou matéria, uma imagem correspondente ao assunto apresentado (thumbnail)   | MÉDIA |
+|RF-003| O site deve permitir ao usuário visualizar o texto completo da notícia, matéria ou artigo com todos os detalhes da publicação   | MÉDIA |
+|RF-004| O site deve permitir visualizar as informações de contatos do mantenedor do site  | BAIXA |
+|RF-005| O site deve permitir que usuários possam comentar em algum fórum a ser criado   | MÉDIA |
+|RF-006| O site deve possuir opção de criar conta   | ALTA |
+|RF-007| O site deve possuir relatos dos usuários   | MEDIA |
+|RF-008| O site deve possuir um contador relacionado à quantidade de dias sóbrios | ALTA |
+|RF-009| O site deve fornecer informações benéficas conforme o contador previamente citado aumenta  | ALTA |
+|RF-010| O site deve apresentar um ranking conforme o contador aumenta | BAIXA |
+|RF-011| O site deve apresentar um ranking conforme o contador aumenta | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|RNF-003| O site deve ser publicado em um ambiente acessívelpublicamente na Internet (Repl.it, GitHub Pages, Heroku); |  ALTA | 
+|RNF-004| O site deve ter bom nível de contraste entre os elementos datela em conformidade |  MEDIA | 
+|RNF-005| Deve apresentar compatibilidade com os navegadores populares do mercado |  ALTA | 
 
 ## Restrições
 
@@ -170,15 +160,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
+|04| O site deverá focar em qualidade das notícias, artigos e matérias, não em quantidade|
 
 # Projeto de Interface
 
