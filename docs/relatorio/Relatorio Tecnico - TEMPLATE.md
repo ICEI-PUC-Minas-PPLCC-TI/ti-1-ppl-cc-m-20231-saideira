@@ -193,21 +193,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
+ À fim de exemplificar as telas do sistema proposto do trabalho, observa-se a base seguida para todas as outras telas:
+>
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
@@ -251,7 +238,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYDTJeQ=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-saideira| 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | https://figma.com/ | 
 |Editor de código | VisualStudio Code | https://code.visualstudio.com/ | 
 |Editor de wireframes | Canva | https://www.canva.com/design/DAFgLocvCjQ/mFPC021h0gsWPLVWjpMeSg/edit?utm_content=DAFgLocvCjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
 
