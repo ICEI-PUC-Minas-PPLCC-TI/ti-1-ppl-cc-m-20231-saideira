@@ -197,14 +197,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  -Cabeçalho:
   Local onde será gerenciado o processo de contas, assim como outras funções e o logo do site.
  -Conteúdo:
-  Local onde serão apresentadas as notícias, artigos e matérias disponibilizadas, assim como outras funcionalidades.
+  Local onde serão apresentadas as notícias, artigos e depoimentos disponibilizadas, assim como outras funcionalidades.
 >
  **Wireframe Base**
 >
 > ![Exemplo de Wireframe](images/wireframe_padrao.png)
 >
+>
+>------------------------------------------------------------------------------
  **Tela inicial - Home Page**
- A tela inicial será responsável por apresentar a maior parte do conteúdo do site, de maneira limpa, sem obstruir o design. Traz consigo as notícias, matérias e artigos sobre alcoolismo como a parte central. Acima, estará localizado algumas informações extras fundamentais para o projeto. 
+ A tela inicial será responsável por apresentar a maior parte do conteúdo do site, de maneira limpa, sem obstruir o design. Traz consigo as notícias, depoimentos e artigos sobre alcoolismo como a parte central. Acima, estará localizado algumas informações extras fundamentais para o projeto. 
 >
 > ![Exemplo de Wireframe](images/1.png)
 >
@@ -217,8 +219,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 >
 >
- **Tela Login - Cadastro Conta**
- Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
+ **Tela Depoimentos - Fórum**
+ Essa tela apresentará no formato popular de fórum uma sessão de comentários onde usuários podem compartilhar experi
 >
 > ![Exemplo de Wireframe](images/2.png)
 
