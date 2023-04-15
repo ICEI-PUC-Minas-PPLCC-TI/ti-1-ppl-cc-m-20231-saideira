@@ -206,6 +206,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 >------------------------------------------------------------------------------
  **Tela inicial - Home Page**
+ >
  A tela inicial será responsável por apresentar a maior parte do conteúdo do site, de maneira limpa, sem obstruir o design. Traz consigo as notícias, depoimentos e artigos sobre alcoolismo como a parte central. Acima, estará localizado algumas informações extras fundamentais para o projeto. 
 >
 > ![Exemplo de Wireframe](images/1.png)
@@ -213,18 +214,45 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 >
  **Tela Login - Cadastro Conta**
+>
  Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
 >
 > ![Exemplo de Wireframe](images/2.png)
 >
 >
 >
- **Tela Depoimentos - Fórum**
- Essa tela apresentará no formato popular de fórum uma sessão de comentários onde usuários podem compartilhar experi
+ **Tela Depoimentos**
 >
-> ![Exemplo de Wireframe](images/2.png)
-
-
+ Essa tela apresentará no formato popular de fórum uma sessão de comentários onde usuários podem compartilhar experiências.
+>
+> ![Exemplo de Wireframe](images/3.png)
+>
+>
+>
+ **Tela Artigos**
+ >
+ Essa tela apresentará, priorizando qualidade sobre quantidade, uma seleção vasta de artigos que tratam o assunto alcoolismo.
+>
+> ![Exemplo de Wireframe](images/4.png)
+>
+>
+>
+ **Tela Notícias**
+ >
+ Essa tela apresentará uma seleção vasta de notícias que cobrirão tudo que envolve o álcool, focando em seus malefícios.
+>
+> ![Exemplo de Wireframe](images/5.png)
+>
+>
+>
+**Tela Contador**
+ >
+ A tela do contador 
+>
+> ![Exemplo de Wireframe](images/5.png)
+>
+>
+>
 
 # Metodologia
 
