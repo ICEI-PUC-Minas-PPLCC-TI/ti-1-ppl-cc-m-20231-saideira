@@ -248,9 +248,13 @@ execução das tarefas do projeto.
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do
 processo de desenvolvimento.
+
 A equipe está organizada da seguinte maneira:
+
 ● Scrum Master: Lucas Pereira
+
 ● Product Owner: Rommel
+
 ● Equipe de Desenvolvimento
 ○ Arthur 
 ○ Larissa Mariella 
@@ -259,8 +263,6 @@ A equipe está organizada da seguinte maneira:
 
 
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
