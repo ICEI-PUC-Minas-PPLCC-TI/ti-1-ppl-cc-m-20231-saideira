@@ -233,7 +233,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
  >
  A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
 >
-> ![Exemplo de Wireframe](images/5.png)
+> ![Exemplo de Wireframe](images/contador.png)
 >
 >
 >
