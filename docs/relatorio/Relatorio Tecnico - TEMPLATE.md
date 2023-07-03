@@ -184,7 +184,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >------------------------------------------------------------------------------
  **Tela inicial - Home Page**
  >
- A tela inicial será responsável por apresentar a maior parte do conteúdo do site, de maneira limpa, sem obstruir o design. Traz consigo as notícias, depoimentos e artigos sobre alcoolismo como a parte central. Acima, estará localizado algumas informações extras fundamentais para o projeto. 
+ A tela inicial será responsável por apresentar a maior parte do conteúdo do site, de maneira limpa, sem obstruir o design. Traz consigo as notícias, depoimentos e artigos sobre alcoolismo na aba do topo. No centro, estará localizado algumas informações extras do projeto. 
 >
 > ![Exemplo de Wireframe](images/1.jpg)
 >
@@ -200,7 +200,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
   **Tela Login - Login Conta**
 >
- Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
+ Essa tela será responsável por lidar com a ingressão do cliente com sua conta previamente registrada.
 >
 > ![Exemplo de Wireframe](images/login.jpg)
 >
@@ -227,7 +227,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
 **Tela Contador**
  >
- A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
+ A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar.
 >
 > ![Exemplo de Wireframe](images/contador.jpg)
 >
@@ -235,7 +235,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
 **Tela Manual**
  >
- A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
+ A tela do manual se responsabilizará por detalhar os funcionamentos do site e funcionar como guia para aqueles que necessitarem.
 >
 > ![Exemplo de Wireframe](images/manual.jpg)
 >
@@ -302,11 +302,7 @@ a curto e longo prazo que tal ação está tendo no seu organismo.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+| [https://miro.com/app/board/uXjVMYDTJeQ=/](https://github.com/rommelcarneiro/tiaw-template-2022) | 
+>
+>
+>
