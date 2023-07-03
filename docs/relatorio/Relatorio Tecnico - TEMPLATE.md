@@ -12,7 +12,6 @@
  Os membros do grupo são:
  - Arthur Torres Lemos
  - Larissa Mariella da Silva Souza
- - Lucas Aquino Moura de Albuquerque
  - Lucas Pereira Rangel de Carvalho
 
 # Estrutura do Documento
@@ -258,7 +257,6 @@ A equipe está organizada da seguinte maneira:
 ● Equipe de Desenvolvimento
 ○ Arthur 
 ○ Larissa Mariella 
-○ Lucas Aquino 
 
 
 
@@ -282,12 +280,11 @@ A equipe está organizada da seguinte maneira:
  
  
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ À fim de levar aos usuários uma experiência agradável na batalha contra o vício, o nosso site contará com diversos artefatos elaborados de maneira a garantir a disseminação de informação, suporte do cliente e apoio em forma de comunidade. Tais são representados pelas páginas principais do Saideira, o painél de notícias, a página do contador e a aba de relatos.
+ 
 
 ## Tecnologias Utilizadas
 
