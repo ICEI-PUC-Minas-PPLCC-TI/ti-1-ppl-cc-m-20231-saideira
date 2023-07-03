@@ -6,7 +6,6 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Arthur Torres Lemos
 * Larissa Mariella da Silva Souza 
-* Lucas Aquino Moura de Albuquerque
 * Lucas Pereira Rangel de Carvalho
 
 ## Professores responsáveis
