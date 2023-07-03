@@ -302,7 +302,7 @@ a curto e longo prazo que tal ação está tendo no seu organismo.
 
 # Referências
 
-| [https://miro.com/app/board/uXjVMYDTJeQ=/](https://github.com/rommelcarneiro/tiaw-template-2022) | 
+| (https://github.com/rommelcarneiro/tiaw-template-2022) | 
 >
 >
 >
