@@ -283,8 +283,11 @@ A equipe está organizada da seguinte maneira:
 
 # Projeto da Solução
 
- À fim de levar aos usuários uma experiência agradável na batalha contra o vício, o nosso site contará com diversos artefatos elaborados de maneira a garantir a disseminação de informação, suporte do cliente e apoio em forma de comunidade. Tais são representados pelas páginas principais do Saideira, o painél de notícias, a página do contador e a aba de relatos.
- 
+ À fim de levar aos usuários uma experiência agradável na batalha contra o vício, o nosso site contará com diversos artefatos elaborados de maneira a garantir a disseminação de informação, suporte do cliente e apoio em forma de comunidade. Tais são representados, respectivamente, pelas páginas principais do Saideira, o painél de notícias, a página do contador e a aba de relatos.
+ Na aba de notícias, serão exibidas matérias, reportagens e outros textos relacionados a álcool e o vício. As matérias apresentadas contêm um resumo de cada notícia e há a possibilidade de se redirecionar ao link original da matéria.
+ Seguindo, o contador representa uma forma simples e prática de oferecer apoio e incentivo para continuar livre de bebidas alcoolicas. Nessa parte do site, será apresentado um cronômetro que anota o tempo de sobriedade do usuário, assim como mensagens de incentivo e de caráter informativo, citando os benefícios
+a curto e longo prazo que tal ação está tendo no seu organismo.
+ Por fim, a págiina de relatos traz um ambiente de comunidade e fórum para os usuários do Saideira, aonde poderão ser debatidas experiências pessoais e diferentes perspectivas. Dessa forma, a contribuição também poderá ser realizada através da comunicação.
 
 ## Tecnologias Utilizadas
 
