@@ -92,8 +92,10 @@
 >
 >
 > **Exemplo de Proposta de Valor**
+> 
 > ![Exemplo da Proposta de Valor](images/Proposta_de_valor_saideira.png)
 >
+> 
 >
 >
 > **Exemplo de Persona 2**
