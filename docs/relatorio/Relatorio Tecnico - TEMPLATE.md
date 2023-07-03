@@ -186,7 +186,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
  >
  A tela inicial será responsável por apresentar a maior parte do conteúdo do site, de maneira limpa, sem obstruir o design. Traz consigo as notícias, depoimentos e artigos sobre alcoolismo como a parte central. Acima, estará localizado algumas informações extras fundamentais para o projeto. 
 >
-> ![Exemplo de Wireframe](images/1.png)
+> ![Exemplo de Wireframe](images/1.jpg)
 >
 >
 >
@@ -194,7 +194,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
  Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
 >
-> ![Exemplo de Wireframe](images/cadastro.png)
+> ![Exemplo de Wireframe](images/cadastro.jpg)
 >
 >
 >
@@ -202,7 +202,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
  Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
 >
-> ![Exemplo de Wireframe](images/login.png)
+> ![Exemplo de Wireframe](images/login.jpg)
 >
 >
 >
@@ -210,7 +210,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
  Essa tela apresentará no formato popular de fórum uma sessão de comentários onde usuários podem compartilhar experiências.
 >
-> ![Exemplo de Wireframe](images/3.png)
+> ![Exemplo de Wireframe](images/3.jpg)
 >
 >
 >
@@ -220,7 +220,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
  >
  Essa tela apresentará uma seleção vasta de notícias que cobrirão tudo que envolve o álcool, focando em seus malefícios.
 >
-> ![Exemplo de Wireframe](images/5.png)
+> ![Exemplo de Wireframe](images/5.jpg)
 >
 >
 >
@@ -229,7 +229,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
  >
  A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
 >
-> ![Exemplo de Wireframe](images/contador.png)
+> ![Exemplo de Wireframe](images/contador.jpg)
 >
 >
 >
@@ -237,7 +237,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
  >
  A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
 >
-> ![Exemplo de Wireframe](images/manual.png)
+> ![Exemplo de Wireframe](images/manual.jpg)
 >
 >
 
