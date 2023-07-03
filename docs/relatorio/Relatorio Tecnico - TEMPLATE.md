@@ -190,11 +190,19 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
 >
 >
- **Tela Login - Cadastro Conta**
+ **Tela Cadastro - Cadastro Conta**
 >
  Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
 >
-> ![Exemplo de Wireframe](images/2.png)
+> ![Exemplo de Wireframe](images/cadastro.png)
+>
+>
+>
+  **Tela Login - Login Conta**
+>
+ Essa tela disponibilizará a oportunidade (não obrigatória) de um usuário criar sua conta no sistema, à fim de se relacionar com outras funcionalidades do sistema.
+>
+> ![Exemplo de Wireframe](images/login.png)
 >
 >
 >
@@ -216,12 +224,20 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 >
 >
 >
+>
 **Tela Contador**
  >
  A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
 >
 > ![Exemplo de Wireframe](images/contador.png)
 >
+>
+>
+**Tela Manual**
+ >
+ A tela do contador representará diversas coisas diferentes para o projeto, sendo talvez a peça chave. Ele acompanhará a quantidade de tempo que uma pessoa permanece sóbria e disponibilizar
+>
+> ![Exemplo de Wireframe](images/manual.png)
 >
 >
 
