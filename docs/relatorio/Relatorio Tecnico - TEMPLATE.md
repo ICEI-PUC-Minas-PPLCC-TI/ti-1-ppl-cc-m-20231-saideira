@@ -65,7 +65,7 @@
 
   Como meta, o foco principal da aplicação é trazer auxílio e ajuda para aqueles que sofrem de alcoolismo. Contudo, em segundo plano, visualisa-se um site capaz de trazer informações e sanar dúvidas para quaisuqer indivíduos, sejam utilizadores frequentes da bebida ou não.
   
-  Mais especificamente, a ideia proposta é de fornecer informação acerca do vício em álcool através de links contendo notícias, matérias e sobretudo artigos científicos relacionados. Adicionalmente, para fornecer uma motivação externa para continuar afastado do vício, diversos conteúdos relacionados aos benefícios de estar sóbrios ficarão em display juntos a um contador da quantidade de dias desde o último relapso.
+  Mais especificamente, a ideia proposta é de fornecer informação acerca do vício em álcool através de links contendo notícias, matérias e artigos científicos relacionados. Adicionalmente, para fornecer uma motivação externa para continuar afastado do vício, diversos conteúdos relacionados aos benefícios de estar sóbrios ficarão em display juntos a um contador da quantidade de dias desde o último relapso.
 
 ## Justificativa
 
@@ -211,12 +211,6 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 > ![Exemplo de Wireframe](images/3.png)
 >
 >
->
- **Tela Artigos**
- >
- Essa tela apresentará, priorizando qualidade sobre quantidade, uma seleção vasta de artigos que tratam o assunto alcoolismo.
->
-> ![Exemplo de Wireframe](images/4.png)
 >
 >
 >
