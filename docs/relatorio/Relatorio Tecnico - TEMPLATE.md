@@ -38,14 +38,8 @@
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [Arquitetura da solução](#arquitetura-da-solução)
-- [Avaliação da Aplicação](#avaliação-da-aplicação)
-  - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
-  - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
 
