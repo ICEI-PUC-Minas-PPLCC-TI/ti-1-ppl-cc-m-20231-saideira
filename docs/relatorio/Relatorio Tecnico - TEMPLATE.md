@@ -69,7 +69,7 @@
 
 ## Justificativa
 
- Previamente foi citado que aproximadamente 3% da população brasileira sofre com alcoolismo, esse dado apresentado pela Organização Mundial de Saúde eslarece a forte presença do vicio em questão, assim como seu fácil acesso. Diversas outras pesquisas acerca do assunto (como a apresentada pela Biblioteca Virtual e Saúde) também apontam os terríveis efeitos colaterais do abuso de bebidas alcoólicas: gastrite,neurite, pancreatite, pressão alta, desenvolvimento de câncer e também os inúmeros acidentes que decorrem do estado de embreaguez.
+ Previamente foi citado que aproximadamente 3% da população brasileira sofre com alcoolismo, esse dado apresentado pela Organização Mundial de Saúde esclarece a forte presença do vicio em questão, assim como seu fácil acesso. Diversas outras pesquisas acerca do assunto (como a apresentada pela Biblioteca Virtual e Saúde) também apontam os terríveis efeitos colaterais do abuso de bebidas alcoólicas: gastrite,neurite, pancreatite, pressão alta, desenvolvimento de câncer e também os inúmeros acidentes que decorrem do estado de embreaguez.
 
 ## Público-Alvo
 
@@ -138,8 +138,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| O site deve possuir um contador relacionado à quantidade de dias sóbrios | ALTA |
 |RF-009| O site deve fornecer informações benéficas conforme o contador previamente citado aumenta  | ALTA |
 |RF-010| O site deve apresentar um ranking conforme o contador aumenta | BAIXA |
-|RF-011| O site deve apresentar um ranking conforme o contador aumenta | BAIXA |
-
 
 ### Requisitos não Funcionais
 
