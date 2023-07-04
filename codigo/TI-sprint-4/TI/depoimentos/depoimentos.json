@@ -1,0 +1,81 @@
+    [
+{
+    "id": 1,
+    "nome": "Jeremias",
+    "idade": 52,
+    "email": "jeremias@gmail.com",
+    "comentario": "Hoje faz 2 dias que estou sem beber, tem sido muito difícil, mas tenho fé que vou conseguir continuar. Boa sorte a todos vocês"
+},
+
+{
+    "id": 2,
+    "nome": "Carlos",
+    "idade": 48,
+    "email": "carlos@gmail.com",
+    "comentario": "Bom dia, semana passada consegui sair com os amigos e não beber, mesmo com todos eles bebendo, não senti vontade nem aquela necessidade. Fiquei muito feliz com isso"
+},
+
+{
+    "id": 3,
+    "nome": "Suelen Rosa",
+    "idade": 46,
+    "email": "suelen.rosa10@gmail.com",
+    "comentario": "Eu e meu marido estamos iniciando nossa jornada para sairmos dessa, nos desejem sorte"
+},
+
+{
+    "id": 4,
+    "nome": "José Dias",
+    "idade": 67,
+    "email": "jose.dias@gmail.com",
+    "comentario": "Oi, sou a Clara, neta do José, mostrei pra ele o site e ele quis tentar ficar uma semana sem beber. Hoje completou essa semana e quis compartilhar com vocês"
+},
+
+{
+    "id": 5,
+    "nome": "Kleber",
+    "idade": 32,
+    "email": "Kleber@gmail.com",
+    "comentario": "Ainda não estou limpo, mas ver que tantas pessoas conseguiram me motiva a pelo menos tentar"
+},
+
+{
+    "id": 6,
+    "nome": "Rita",
+    "idade": 27,
+    "email": "rita@gmail.com",
+    "comentario": "Ainda é muito complicado ficar sem beber, ainda sinto vontade e quase uma abstinência, são poucos dias nesse processo, mas parece uma eternidade"
+},
+
+{
+    "id": 7,
+    "nome": "Davi",
+    "idade": 17,
+    "email": "davi@gmail.com",
+    "comentario": "Eai, to tentando sair dessa vida de álcool e algumas outras coisas, mas não ta sendo fácil."
+},
+
+{
+    "id": 8,
+    "nome": "Murilo",
+    "idade": 39,
+    "email": "murilo@gmail.com",
+    "comentario": "Hoje completo 2 anos sóbrio, ganhei mais uma medalha 👍"
+},
+
+{
+    "id": 9,
+    "nome": "Ricardo",
+    "idade": 88,
+    "email": "vilma@gmail.com",
+    "comentario": "Boa noite, gente sou a Vilma filha do Ricardo, infelizmente ele faleceu no último mês, mas vi nos seus e-mails que ele frequentava muito esse site, gostaria de deixar uma mensagem para todos vocês. Continuem no seu caminho, por mais doloroso que possa ser, o final valera a pena."
+},
+
+{
+    "id": 10,
+    "nome": "Elaine",
+    "idade": 26,
+    "email": "elaine@gmail.com",
+    "comentario": "Oi, to meio que sendo obrigada a participar pela minha amiga rita, hoje fazem 3 dias que não bebo, to muito irritada com qualquer coisa e qualquer um, mas acho que pode dar certo"
+}
+    ]

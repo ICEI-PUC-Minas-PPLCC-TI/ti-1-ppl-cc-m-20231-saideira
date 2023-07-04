@@ -1,0 +1,99 @@
+
+.logo{ 
+  margin-right: 20px;
+}
+
+body {
+  background-color: #ffffff; /* Slightly lighter gray background color */
+}
+
+/* Adjust the size of the thumbnail images */
+.small-image {
+  max-width: 100px; /* Adjust the value to make the images smaller */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.article {
+  position: relative;
+  background-color: #212529;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding-bottom: 20px; /* Add padding-bottom for spacing */
+  display: flex;
+  align-items: flex-start;
+  gap: 50px;
+}
+
+.image-column {
+  flex: 1;
+  margin-right: 20px;
+  max-width: 30%; /* Adjust the value to make the images smaller */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.article-content {
+  flex: 2;
+  margin-right: 20px;
+  margin-bottom: 20px; /* Add margin-bottom for spacing */
+}
+
+.comments {
+  width: 300px;
+
+  padding: 20px;
+  border-radius: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #cccccc; /* Lighter text color */
+  margin-bottom: 20px;
+}
+
+.comment {
+  margin-bottom: 20px;
+}
+
+.comment p {
+  margin-bottom: 20px;
+}
+
+.comment-form {
+  margin-top: 20px;
+}
+
+.comment-form label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.comment-form input,
+.comment-form textarea {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+input{
+  margin-left:40px;
+  margin-right:40px;
+}
+
+#articles{
+  margin-top:0px;
+  margin:20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.main-title{
+  
+  margin:20px;
+  margin-left:40px;
+}
