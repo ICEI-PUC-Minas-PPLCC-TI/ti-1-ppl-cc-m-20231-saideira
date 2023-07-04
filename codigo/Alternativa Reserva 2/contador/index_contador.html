@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style_contador.css">
+    <link rel="icon" type="image/x-icon" href="/imagens/saidera-logo.png" />
+    <title> Saideira - Contador de Sobriedade</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a href="/index.html" class="logo"> <img src="/imagens/saidera-logo.png" alt="" width="50px"> </a>
+            <a class="navbar-brand" href="#"> Saideira </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item nav-outline-dark">
+                        <a class="nav-link active" href="/index.html"> Página Inicial
+                        </a>
+                    </li>
+                    <li class="nav-item nav-outline-dark">
+                        <a class="nav-link active" href="/noticia/index_noticia.html"> Notícias </a>
+                    </li>
+                    <li class="nav-item nav-outline-dark">
+                      <a class="nav-link active" href="/depoimentos/index_depoimentos.html"> Depoimentos </a>
+                  </li>
+                    <li class="nav-item nav-outline-dark">
+                        <a id="sobre" class="nav-link outline-dark" href="/manual/index_manual.html">Manual do Usuário</a>
+                    </li>
+                </ul>
+             </div>
+        </div>
+    </nav>
+
+ 
+
+    <h1 class="text-dark">Contador de sobriedade</h1>
+    <div class="text-dark"id="contador">00:00:00:00</div>
+    <button  id="iniciar" onclick="iniciar()">Iniciar</button>
+    <button  id="pausar" onclick="pausar()">Pausar</button>
+    <button  id="zerar" onclick="zerar()">Zerar</button>
+    
+    <footer id="footer" class="py-5 bg-dark">
+        <div class="container">
+            <ul class="list-unstyled m-0 text-center text-white">
+                <li> TIAW - Sprint 4</li>
+                <li> Saúde e bem-estar - Saideira</li>
+            </ul>
+        </div>
+    </footer>
+    
+
+
+    <script src="script_contador.js"></script>
+  <script src="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"> </script>
+</body>
+
+</html>
