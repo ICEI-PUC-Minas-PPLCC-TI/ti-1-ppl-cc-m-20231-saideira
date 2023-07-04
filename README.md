@@ -12,7 +12,7 @@ O projeto "Saideira" tem como objetivo desenvolver ações voltadas para a preve
 
 * Rommel Vieira Carneiro
 * Luciana
-* Rafael
+* Rafael Glater da Cruz Machado
 
 ## Instruções de utilização
 
