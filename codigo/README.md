@@ -1,5 +1,5 @@
 # Código do Projeto
 
-Mantenha neste diretório todo o código fonte do projeto. 
+Código fonte do projeto.
 
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+Alternativa Reserva configura-se apenas como uma versão diferente do arquivo "Código Certo".
