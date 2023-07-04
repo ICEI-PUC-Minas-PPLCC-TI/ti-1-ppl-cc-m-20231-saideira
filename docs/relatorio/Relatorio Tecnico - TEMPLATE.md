@@ -270,7 +270,7 @@ A equipe está organizada da seguinte maneira:
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYDTJeQ=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-saideira| 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site | Replit | (https://ti-sprint4.larissamariella.repl.co/) | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/ | 
 |Editor de código | VisualStudio Code | https://code.visualstudio.com/ | 
 |Editor de wireframes | Canva | https://www.canva.com/design/DAFgLocvCjQ/mFPC021h0gsWPLVWjpMeSg/edit?utm_content=DAFgLocvCjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
