@@ -11,7 +11,8 @@ O projeto "Saideira" tem como objetivo desenvolver ações voltadas para a preve
 ## Professores responsáveis
 
 * Rommel Vieira Carneiro
-* 
+* Luciana
+* Rafael
 
 ## Instruções de utilização
 
