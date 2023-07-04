@@ -1,0 +1,49 @@
+
+.nav-vertical {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    width: 200px;
+    padding-top: 60px;
+  }
+
+  .nav-vertical .nav-link {
+    padding: 10px 20px;
+  }
+
+  .preto:focus {
+    border-color: rgb(0, 0, 0);
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+  }
+
+  img
+  {
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+.conteudo-total
+{
+    margin-top: 30px;
+}
+
+#botao
+{
+    margin: 20px;
+}
+
+button{
+  width: 80px;
+  height: 40px;
+}
+
+#caixa-comentario{
+  margin-top:20px;
+}
+
+.coment{
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
